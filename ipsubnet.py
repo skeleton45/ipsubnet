@@ -19,7 +19,7 @@ print (" \n\033[32;1m  [1] Start IP & SUBNETMASK Finder\n  [2] Fungsi dan Penjel
 p = int(input("\n[>>>] Pilihanmu > "))
 
 if p == 1:
-	print ("\n\033[39;1m   [>>>] IP Class Finder [<<<]")
+	print ("\n\033[39;1m   [>>>] IP Class & SUBNETMASK Finder [<<<]")
 	a = str(raw_input("\n\033[32;1m[>>>] Masukan IP Address > "))
 	
 	if a <= "127.999.999.999":
