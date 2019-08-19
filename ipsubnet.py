@@ -52,7 +52,7 @@ if p == 2:
 	print ("   *       *    *  *")
 	print ("   *       *    *    ***")
 	print ("\n   \033[33;1m     [x] IP Class & SUBNETMASK Finder Tool [x]")
-	print ("\n\033[39;1m[?] Apasih kegunaan tool/alat ini? Alat ini berfungsi untuk mencari 'Class IP & SUBNETMASK' dengan menggunakan alamat IP atau IP Address.\n\n[!] Contoh IP Adress: \n   [1] 116.22.177.1\n   [2] 192.168.1.12\n   [3] 222.167.22.11")
+	print ("\n\033[39;1m[?] Apasih kegunaan tool/alat ini? Alat ini berfungsi untuk mencari 'Class IP & SUBNETMASK' dengan menggunakan alamat IP atau IP Address.\n\n[!] Contoh IP Address: \n   [1] 116.22.177.1\n   [2] 192.168.1.12\n   [3] 222.167.22.11")
 	plh = raw_input("\n[?] Sudah paham? jika sudah ketik y untuk kembali ke menu > ")
 	if plh == "y":
 		os.system("exit()")
