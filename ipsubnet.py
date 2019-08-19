@@ -27,7 +27,13 @@ if p == 1:
 		print "\n\033[39;1m   [>>>] IP Address: " , a
 		print "   [>>>] SUBNETMASK: 255.0.0.0"
 		print "   [>>>] IP Class: A"
-		
+
+	elif  a	"99.200.200.200":
+		print "\n  \033[33;1m       	[!] KETEMU GAN [!]"
+		print "\n\033[39;1m   [>>>] IP Address: " , a
+		print "   [>>>] SUBNETMASK: 255.0.0.0"
+		print "   [>>>] IP Class: A"
+
 	elif a <= "191.999.999.999":
 		print "\n  \033[33;1m       	[!] KETEMU GAN [!]"
 		print "\n \033[39;1m  [>>>] IP Address: " , a
