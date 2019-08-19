@@ -13,7 +13,7 @@ print ("   *********    *******")
 print ("   *       *    * *")
 print ("   *       *    *  *")
 print ("   *       *    *    ***")
-print ("\n   \033[33;1m     [x] IP Class & SUBNETMASK Finder Tool [x]")
+print ("\n   \033[33;1m   [x] IP Class & SUBNETMASK Finder Tool [x]")
 print (" \n\033[32;1m  [1] Start IP & SUBNETMASK Finder\n  [2] Fungsi dan Penjelasan")
 
 p = int(input("\n[>>>] Pilihanmu > "))
